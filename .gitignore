@@ -1,10 +1,4 @@
-logs-factory-example
-logs-append-usecase-example
-logs-fs-writer-example
-tmp-fs-provider-example
 node_modules/
 dist/
 coverage/
 package-lock.json
-package-script.txt
-jmlq-logger-plugin-fs-source.txt
