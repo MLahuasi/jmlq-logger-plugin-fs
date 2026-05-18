@@ -1,6 +1,6 @@
 # @jmlq/logger-plugin-fs 🧩
 
-![](./assets/jmlq-logger-plugin-fs-banner.png)
+![](./assets/jmlq-logger-plugin-fs-banner-en.png)
 
 ## 🎯 Objective
 
