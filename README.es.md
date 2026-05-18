@@ -1,5 +1,7 @@
 # @jmlq/logger-plugin-fs 🧩
 
+![](./assets/jmlq-logger-plugin-fs-banner.png)
+
 ## 🎯 Objetivo
 
 `@jmlq/logger-plugin-fs` es el plugin de persistencia en filesystem para `@jmlq/logger`.  
@@ -204,6 +206,10 @@ La integración documentada está orientada a Express y a un bootstrap de infrae
 - [Integrar el datasource en el bootstrap del logger](./docs/es/integration-express.md#bootstrap-del-logger-en-el-host)
 - [Adjuntar logger a Express](./docs/es/integration-express.md#adjuntar-logger-al-request)
 - [Revisar problemas comunes](./docs/es/troubleshooting.md)
+
+## 🧩 Implementation Example
+
+- [View real integration and documentation](https://github.com/MLahuasi/jmlq-ecosystem/blob/main/doc/es/%40jmlq/logger/fs.md)
 
 ## 📌 Menú
 
