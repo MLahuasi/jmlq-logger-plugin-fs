@@ -220,10 +220,10 @@ La integración documentada está orientada a Express y a un bootstrap de infrae
 
 ## 🔗 Referencias
 
-- [`@jmlq/logger`](https://github.com/MLahuasi/jmlq-logger#readme)
+- [`@jmlq/logger`](https://github.com/MLahuasi/jmlq-logger/blob/main/README.es.md)
 - Plugins relacionados del ecosistema:
-  - [`@jmlq/logger-plugin-mongo`](https://github.com/MLahuasi/jmlq-logger-plugin-mongo#readme)
-  - [`@jmlq/logger-plugin-postgresql`](https://github.com/MLahuasi/jmlq-logger-plugin-postgresql#readme)
+  - [`@jmlq/logger-plugin-mongo`](https://github.com/MLahuasi/jmlq-logger-plugin-mongo/blob/main/README.es.md)
+  - [`@jmlq/logger-plugin-postgresql`](https://github.com/MLahuasi/jmlq-logger-plugin-postgresql/blob/main/README.es.md)
 
 ## ⬅️ 🌐 Ecosistema
 
